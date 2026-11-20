@@ -1,0 +1,4 @@
+Add up to 30 candidate placement photographs in this folder.
+Use filenames placement-01.jpg through placement-30.jpg.
+The website gallery already has 30 matching spaces.
+Get consent before publishing identifiable candidate photos.
